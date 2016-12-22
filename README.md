@@ -27,6 +27,6 @@ To choose a render mode, rename the appropriate shader in the shaders folder.
 # Screenshots
 
 ![alt text](screenshots/mandelbrot01.png "Raw (top) and smooth (bottom) render")
-![alt text](screenshots/julia03.png" "Julia fractal")
-![alt text](screenshots/julia02.png" "Julia fractal")
-![alt text](screenshots/b.png" "Close up view of the south-east area of the Mandelbrot fractal")
+![alt text](screenshots/julia03.png "Julia fractal")
+![alt text](screenshots/julia02.png "Julia fractal")
+![alt text](screenshots/b.png "Close up view of the south-east area of the Mandelbrot fractal")
